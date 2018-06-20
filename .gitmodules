@@ -1,3 +1,6 @@
 [submodule "python"]
 	path = python
 	url = https://github.com/DaleCameron/glider-py.git
+[submodule "javascript"]
+	path = javascript
+	url = https://github.com/DaleCameron/glider-js.git
